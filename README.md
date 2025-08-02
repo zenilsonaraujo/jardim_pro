@@ -1,66 +1,16 @@
-JardimPro 🌱
-Um aplicativo Flutter para cálculo de mudas e planejamento de jardins, ajudando jardineiros e paisagistas a otimizar seus projetos com precisão.
+# jardim_pro
 
-📌 Funcionalidades
-✅ Cálculo de mudas por área
+A new Flutter project.
 
-Formatos: Retangular, Circular, Triangular, Irregular
+## Getting Started
 
-Opções de plantio: Linear ou Zigue-Zague
+This project is a starting point for a Flutter application.
 
-Visualização gráfica da distribuição
+A few resources to get you started if this is your first Flutter project:
 
-✅ Cálculo de terra para jarros
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Volume por diâmetro e altura
-
-Quantidade de sacos necessários
-
-Mistura personalizada (terra + argila)
-
-✅ Planejamento de canteiros
-
-Layout otimizado para plantio
-
-Recomendações de espaçamento
-
-🛠 Tecnologias
-Flutter (Framework multiplataforma)
-
-Dart (Linguagem de programação)
-
-Syncfusion Charts (Visualização de dados)
-
-PDF Export (Relatórios de plantio) (em desenvolvimento)
-
-📥 Instalação
-Clone o repositório
-
-bash
-git clone https://github.com/seu-usuario/jardim_pro.git
-cd jardim_pro
-Instale as dependências
-
-bash
-flutter pub get
-Execute o app
-
-bash
-flutter run
-📸 Capturas de Tela
-Tela Inicial	Cálculo Retangular	Visualização Circular
-<img src="screenshots/home.png" width="200">	<img src="screenshots/retangular.png" width="200">	<img src="screenshots/circular.png" width="200">
-📌 Roadmap
-Exportar PDF com layout de plantio
-
-Integração com clima (previsão de rega)
-
-Banco de dados para salvar projetos
-
-Modo escuro
-
-📜 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
-🌱 Créditos
-Desenvolvido por Zenilson Araújo
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
